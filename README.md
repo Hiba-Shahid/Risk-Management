@@ -1,4 +1,4 @@
-# RiskVision — FYP Risk Management Dashboard
+# RiskVision — Risk Management Dashboard
 
 A full-stack MERN web application for managing Final Year Project risks: surveys, risk register, PERT scheduling, technical vs non-technical analysis, and deadline response strategies.
 
